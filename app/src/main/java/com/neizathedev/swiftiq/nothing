@@ -1,0 +1,28 @@
+// Retrieve user data
+                        String username = documentSnapshot.getString("username");
+                        String email = documentSnapshot.getString("email");
+                        String firstName = documentSnapshot.getString("firstname");
+                        String lastName = documentSnapshot.getString("lastname");
+                        String omang = documentSnapshot.getString("omang");
+                        String gender = documentSnapshot.getString("gender");
+                        String dob = documentSnapshot.getString("dob");
+                        String phoneNumber = documentSnapshot.getString("phone_number");
+                        String docID = documentSnapshot.getString("documentId");
+                        String country = documentSnapshot.getString("country");
+                        String physicalAddress = documentSnapshot.getString("physical_address");
+                        String postalAddress = documentSnapshot.getString("postal_address");
+                        // Retrieve other fields similarly
+
+                        // Update TextViews with the retrieved data
+                        usernameTextView.setText(username);
+                        emailTextView.setText(email);
+                        FirstNameTextView.setText(firstName);
+                        lastNameTextView.setText(lastName);
+                        omangTextView.setText(omang);
+                        genderTextView.setText(gender);
+                        DOBTextView.setText(dob);
+                        phoneNumberTextView.setText(phoneNumber);
+                        documentIDTextView.setText(docID);
+                        countryTextView.setText(country);
+                        physicalAddressTextView.setText(physicalAddress);
+                        postalAddressTextView.setText(postalAddress);

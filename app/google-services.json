@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951579651653",
+    "firebase_url": "https://swiftiq-40e70-default-rtdb.firebaseio.com",
+    "project_id": "swiftiq-40e70",
+    "storage_bucket": "swiftiq-40e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951579651653:android:fffc0db0e5c899546e3d2c",
+        "android_client_info": {
+          "package_name": "com.neizathedev.swiftiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951579651653-qv0gmdheeleplilm3m46kl9fhm099ass.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeyKA3mCSEHtP3pcflQlY8ULiDhpyX2TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951579651653-puqteq8crmc9kqvh5b4lahp0pkbtbig5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
